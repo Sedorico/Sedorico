@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2b1e,50:0f5c3a,100:11a86e&height=200&section=header&text=Karl%20Cedric%20Del%20Carmen&fontSize=36&fontColor=d4fff0&fontAlignY=50&desc=Computer%20Engineering%20%2F%2F%20BulSU%20%2F%2F%202022%20-%20Present&descAlignY=70&descSize=14&descFontColor=7eceb0&animation=twinkling&width=1000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2b1e,50:0f5c3a,100:11a86e&height=200&section=header&text=Karl%20Cedric%20Del%20Carmen&fontSize=36&fontColor=d4fff0&fontAlignY=50&desc=Computer%20Engineering%20%2F%2F%20BulSU%20%2F%2F%202022%20-%20Present&descAlignY=70&descSize=14&descFontColor=7eceb0&animation=twinkling)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d2b1e?style=for-the-badge&logo=vercel&logoColor=7eceb0)](https://karldelcarmen.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0d2b1e?style=for-the-badge&logo=gmail&logoColor=7eceb0)](mailto:kzedelcarmen@gmail.com)
@@ -107,4 +107,4 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:11a86e,50:0f5c3a,100:0d2b1e&height=200&section=footer&text=Get%20In%20Touch&fontSize=24&fontColor=d4fff0&fontAlignY=45&desc=kzedelcarmen%40gmail.com%20%7C%2009567237701%20%7C%20karldelcarmen.vercel.app&descSize=13&descFontColor=7eceb0&descAlignY=65&animation=twinkling&width=1000)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:11a86e,50:0f5c3a,100:0d2b1e&height=200&section=footer&text=Get%20In%20Touch&fontSize=24&fontColor=d4fff0&fontAlignY=45&desc=kzedelcarmen%40gmail.com%20%7C%2009567237701%20%7C%20karldelcarmen.vercel.app&descSize=13&descFontColor=7eceb0&descAlignY=65&animation=twinkling)
