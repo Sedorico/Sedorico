@@ -1,14 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&height=80&lines=Karl+Cedric+Del+Carmen)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,0d2b2b,0a3d3d,0d5c5c,0f7a7a,11a8a8&height=200&section=header&text=Karl%20Cedric%20Del%20Carmen&fontSize=36&fontColor=e0ffff&fontAlignY=40&desc=Computer%20Engineering%20%2F%2F%20BulSU%20%2F%2F%202022%20-%20Present&descAlignY=62&descSize=14&descFontColor=7ecece&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=5000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=COMPUTER+ENGINEERING+%2F%2F+BULSU+%2F%2F+2022+-+PRESENT)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://karldelcarmen.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzedelcarmen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sedorico)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d2b2b?style=for-the-badge&logo=vercel&logoColor=7ecece)](https://karldelcarmen.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0d2b2b?style=for-the-badge&logo=gmail&logoColor=7ecece)](mailto:kzedelcarmen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d2b2b?style=for-the-badge&logo=github&logoColor=7ecece)](https://github.com/Sedorico)
 
 </div>
 
@@ -26,22 +22,22 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 **Embedded & Hardware**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-003AFF?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0a3d3d?style=flat-square&logo=arduino&logoColor=7ecece)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0a3d3d?style=flat-square&logo=raspberry-pi&logoColor=7ecece)
+![ESP32](https://img.shields.io/badge/ESP32-0a3d3d?style=flat-square&logo=espressif&logoColor=7ecece)
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-0a3d3d?style=flat-square&logo=c&logoColor=7ecece)
+![Python](https://img.shields.io/badge/Python-0a3d3d?style=flat-square&logo=python&logoColor=7ecece)
+![Java](https://img.shields.io/badge/Java-0a3d3d?style=flat-square&logo=openjdk&logoColor=7ecece)
+![PHP](https://img.shields.io/badge/PHP-0a3d3d?style=flat-square&logo=php&logoColor=7ecece)
 
 **Web**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-0a3d3d?style=flat-square&logo=html5&logoColor=7ecece)
+![CSS3](https://img.shields.io/badge/CSS3-0a3d3d?style=flat-square&logo=css3&logoColor=7ecece)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a3d3d?style=flat-square&logo=javascript&logoColor=7ecece)
 
 ---
 
@@ -78,11 +74,11 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedorico&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Sedorico)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedorico&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=7ecece&icon_color=0f7a7a&text_color=e0ffff&bg_color=0d1f1f)](https://github.com/Sedorico)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedorico&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Sedorico)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedorico&layout=compact&theme=merko&hide_border=true&title_color=7ecece&text_color=e0ffff&bg_color=0d1f1f)](https://github.com/Sedorico)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sedorico&theme=github-dark-blue&hide_border=true)](https://github.com/Sedorico)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sedorico&theme=dark&hide_border=true&ring=0f7a7a&fire=11a8a8&currStreakLabel=7ecece&background=0d1f1f&sideLabels=7ecece&dates=7ecece&currStreakNum=e0ffff&sideNums=e0ffff)](https://github.com/Sedorico)
 
 </div>
 
@@ -95,5 +91,9 @@ Currently seeking OJT opportunities in software development or embedded systems.
 - [karldelcarmen.vercel.app](https://karldelcarmen.vercel.app/)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sedorico&color=58a6ff&style=flat-square&label=profile+views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Sedorico&color=0f7a7a&style=flat-square&label=profile+views"/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,11a8a8,0f7a7a,0d5c5c,0a3d3d,0d2b2b&height=120&section=footer)
+
 </div>
