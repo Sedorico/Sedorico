@@ -107,4 +107,8 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 <br/>
 
+<div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:11a86e,50:0f5c3a,100:0d2b1e&height=200&section=footer&text=Get%20In%20Touch&fontSize=24&fontColor=d4fff0&fontAlignY=45&desc=kzedelcarmen%40gmail.com%20%7C%2009567237701%20%7C%20karldelcarmen.vercel.app&descSize=13&descFontColor=7eceb0&descAlignY=65&animation=twinkling)
+
+</div>
