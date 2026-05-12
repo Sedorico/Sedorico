@@ -18,26 +18,35 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 ---
 
-## Technical Skills
+## Skills
 
-**Embedded & Hardware**
+<div align="center">
 
-![Arduino](https://img.shields.io/badge/Arduino-0f3d2b?style=flat-square&logo=arduino&logoColor=7eceb0)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0f3d2b?style=flat-square&logo=raspberry-pi&logoColor=7eceb0)
-![ESP32](https://img.shields.io/badge/ESP32-0f3d2b?style=flat-square&logo=espressif&logoColor=7eceb0)
+**— Embedded & Hardware —**
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=white&labelColor=black" height="40"/>
 
-![C](https://img.shields.io/badge/C-0f3d2b?style=flat-square&logo=c&logoColor=7eceb0)
-![Python](https://img.shields.io/badge/Python-0f3d2b?style=flat-square&logo=python&logoColor=7eceb0)
-![Java](https://img.shields.io/badge/Java-0f3d2b?style=flat-square&logo=openjdk&logoColor=7eceb0)
-![PHP](https://img.shields.io/badge/PHP-0f3d2b?style=flat-square&logo=php&logoColor=7eceb0)
+<br/><br/>
 
-**Web**
+**— Languages —**
 
-![HTML5](https://img.shields.io/badge/HTML5-0f3d2b?style=flat-square&logo=html5&logoColor=7eceb0)
-![CSS3](https://img.shields.io/badge/CSS3-0f3d2b?style=flat-square&logo=css3&logoColor=7eceb0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f3d2b?style=flat-square&logo=javascript&logoColor=7eceb0)
+<img src="https://skillicons.dev/icons?i=c,python,java,php&theme=dark" />
+
+<br/><br/>
+
+**— Web —**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+<br/><br/>
+
+**— Tools & Design —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
