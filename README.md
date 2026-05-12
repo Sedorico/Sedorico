@@ -1,48 +1,8 @@
 <div align="center">
 
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .name {
-        font-family: 'Courier New', monospace;
-        font-size: 42px;
-        font-weight: 700;
-        fill: none;
-        stroke: #c9d1d9;
-        stroke-width: 1.5;
-        stroke-dasharray: 600;
-        stroke-dashoffset: 600;
-        animation: draw 2.5s ease forwards;
-      }
-      .sub {
-        font-family: 'Courier New', monospace;
-        font-size: 14px;
-        fill: #8b949e;
-        opacity: 0;
-        animation: fadein 1s ease 2s forwards;
-        letter-spacing: 4px;
-      }
-      .cursor {
-        fill: #58a6ff;
-        animation: blink 1s step-end infinite;
-      }
-      @keyframes draw {
-        to { stroke-dashoffset: 0; }
-      }
-      @keyframes fadein {
-        to { opacity: 1; }
-      }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-    </style>
-  </defs>
-  <rect width="800" height="160" fill="#0d1117" rx="12"/>
-  <text x="400" y="85" text-anchor="middle" class="name">Karl Cedric Del Carmen</text>
-  <text x="400" y="120" text-anchor="middle" class="sub">COMPUTER ENGINEERING  //  BULSU  //  2022 - PRESENT</text>
-  <rect x="385" y="65" width="3" height="28" class="cursor"/>
-</svg>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&height=80&lines=Karl+Cedric+Del+Carmen)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=5000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=COMPUTER+ENGINEERING+%2F%2F+BULSU+%2F%2F+2022+-+PRESENT)
 
 <br/>
 
@@ -118,11 +78,11 @@ Currently seeking OJT opportunities in software development or embedded systems.
 
 <div align="center">
 
-![Sedorico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedorico&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedorico&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Sedorico)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedorico&layout=compact&theme=github_dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedorico&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Sedorico)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sedorico&theme=github-dark-blue&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sedorico&theme=github-dark-blue&hide_border=true)](https://github.com/Sedorico)
 
 </div>
 
